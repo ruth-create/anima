@@ -1,0 +1,28 @@
+body{
+    background:white;
+}
+.header_div{
+    background:silver;
+    color:white;
+}
+.header_div p{
+    font-size:12px;
+    font-weight:bold;
+    color:white;
+    letter-spacing: 1px;
+}
+.main_div button{
+    margin-top:30px;
+    letter-spacing: 3px;
+    width:130px;
+}
+.footer{
+    color:silver;
+    font-size:18px;
+    text-align:center;
+    width:100%;
+    position:fixed;
+    bottom:0px;
+    background-color:snow;
+    line-height:3;
+}
